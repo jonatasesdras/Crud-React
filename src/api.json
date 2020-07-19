@@ -1,0 +1,478 @@
+{
+    "_meta": {
+        "success": true,
+        "code": 200,
+        "message": "OK. Everything worked as expected.",
+        "totalCount": 2132,
+        "pageCount": 107,
+        "currentPage": 1,
+        "perPage": 20,
+        "rateLimit": {
+            "limit": 30,
+            "remaining": 29,
+            "reset": 2
+        }
+    },
+    "result": [
+        {
+            "id": "5361",
+            "first_name": "Mabelle",
+            "last_name": "Wilkinson",
+            "gender": "female",
+            "dob": "1976-08-28",
+            "email": "hdonnelly@example.net",
+            "phone": "(571) 936-0110 x915",
+            "website": "http://www.klocko.com/rem-id-dicta-maxime-quo-quod",
+            "address": "4859 John Falls\nAdamstown, SD 97750",
+            "status": "active",
+            "_links": {
+                "self": {
+                    "href": "https://gorest.co.in/public-api/users/5361"
+                },
+                "edit": {
+                    "href": "https://gorest.co.in/public-api/users/5361"
+                },
+                "avatar": {
+                    "href": "https://lorempixel.com/250/250/people/?47200"
+                }
+            }
+        },
+        {
+            "id": "5363",
+            "first_name": "Aryanna",
+            "last_name": "Block",
+            "gender": "female",
+            "dob": "1957-10-06",
+            "email": "armstrong.araceli@example.com",
+            "phone": "537.286.0387 x563",
+            "website": "https://www.waters.com/fuga-cumque-et-maxime",
+            "address": "813 Zackary Summit Suite 077\nPort Burley, SC 18994",
+            "status": "active",
+            "_links": {
+                "self": {
+                    "href": "https://gorest.co.in/public-api/users/5363"
+                },
+                "edit": {
+                    "href": "https://gorest.co.in/public-api/users/5363"
+                },
+                "avatar": {
+                    "href": "https://lorempixel.com/250/250/people/?82693"
+                }
+            }
+        },
+        {
+            "id": "5364",
+            "first_name": "Kiera",
+            "last_name": "Rutherford",
+            "gender": "female",
+            "dob": "1988-03-27",
+            "email": "kohler.franco@example.net",
+            "phone": "+1-930-433-4012",
+            "website": "http://www.hudson.com/",
+            "address": "4594 Susan Squares Apt. 322\nDejonchester, WA 55510-3625",
+            "status": "inactive",
+            "_links": {
+                "self": {
+                    "href": "https://gorest.co.in/public-api/users/5364"
+                },
+                "edit": {
+                    "href": "https://gorest.co.in/public-api/users/5364"
+                },
+                "avatar": {
+                    "href": "https://lorempixel.com/250/250/people/?74144"
+                }
+            }
+        },
+        {
+            "id": "5365",
+            "first_name": "Jessica",
+            "last_name": "Gutkowski",
+            "gender": "female",
+            "dob": "1925-11-26",
+            "email": "harris.dimitri@example.com",
+            "phone": "(715) 680-3863 x7850",
+            "website": "http://mueller.com/autem-accusamus-et-autem-in",
+            "address": "66983 Von Mission\nKristown, MO 55479",
+            "status": "active",
+            "_links": {
+                "self": {
+                    "href": "https://gorest.co.in/public-api/users/5365"
+                },
+                "edit": {
+                    "href": "https://gorest.co.in/public-api/users/5365"
+                },
+                "avatar": {
+                    "href": "https://lorempixel.com/250/250/people/?79705"
+                }
+            }
+        },
+        {
+            "id": "5367",
+            "first_name": "Emilia",
+            "last_name": "Jerde",
+            "gender": "female",
+            "dob": "1951-12-19",
+            "email": "hilpert.murphy@example.org",
+            "phone": "714.554.0564 x95842",
+            "website": "http://miller.biz/necessitatibus-repellendus-et-in-sint",
+            "address": "8673 Charlie Ford Apt. 070\nNorth Dereck, NE 06687",
+            "status": "active",
+            "_links": {
+                "self": {
+                    "href": "https://gorest.co.in/public-api/users/5367"
+                },
+                "edit": {
+                    "href": "https://gorest.co.in/public-api/users/5367"
+                },
+                "avatar": {
+                    "href": "https://lorempixel.com/250/250/people/?59676"
+                }
+            }
+        },
+        {
+            "id": "5368",
+            "first_name": "Markus",
+            "last_name": "Johnson",
+            "gender": "male",
+            "dob": "1920-06-27",
+            "email": "kirsten14@example.org",
+            "phone": "690-725-2324",
+            "website": "http://schuppe.com/",
+            "address": "547 Hassie Ranch Apt. 901\nSwaniawskiburgh, TX 95058",
+            "status": "inactive",
+            "_links": {
+                "self": {
+                    "href": "https://gorest.co.in/public-api/users/5368"
+                },
+                "edit": {
+                    "href": "https://gorest.co.in/public-api/users/5368"
+                },
+                "avatar": {
+                    "href": "https://lorempixel.com/250/250/people/?50298"
+                }
+            }
+        },
+        {
+            "id": "5369",
+            "first_name": "Jasmin",
+            "last_name": "Tillman",
+            "gender": "male",
+            "dob": "1951-03-29",
+            "email": "yolanda05@example.org",
+            "phone": "1-241-771-9768 x23149",
+            "website": "https://von.net/et-ut-molestiae-qui-exercitationem.html",
+            "address": "559 Shannon Rue\nLakinberg, NV 63123-3936",
+            "status": "active",
+            "_links": {
+                "self": {
+                    "href": "https://gorest.co.in/public-api/users/5369"
+                },
+                "edit": {
+                    "href": "https://gorest.co.in/public-api/users/5369"
+                },
+                "avatar": {
+                    "href": "https://lorempixel.com/250/250/people/?44767"
+                }
+            }
+        },
+        {
+            "id": "5370",
+            "first_name": "Unique",
+            "last_name": "Terry",
+            "gender": "male",
+            "dob": "2013-11-18",
+            "email": "delta.zemlak@example.org",
+            "phone": "1-971-930-7091 x7985",
+            "website": "http://doyle.com/placeat-rerum-provident-vel-sunt-omnis-aut-impedit",
+            "address": "2337 Rogelio Passage Apt. 604\nSouth Tyraside, TX 96236",
+            "status": "inactive",
+            "_links": {
+                "self": {
+                    "href": "https://gorest.co.in/public-api/users/5370"
+                },
+                "edit": {
+                    "href": "https://gorest.co.in/public-api/users/5370"
+                },
+                "avatar": {
+                    "href": "https://lorempixel.com/250/250/people/?93695"
+                }
+            }
+        },
+        {
+            "id": "5371",
+            "first_name": "Addie",
+            "last_name": "Murazik",
+            "gender": "female",
+            "dob": "1953-06-18",
+            "email": "leda86@example.org",
+            "phone": "576.944.2054 x8727",
+            "website": "http://www.hagenes.org/nulla-et-at-error-quidem-dolorum-ex",
+            "address": "111 Eladio Grove\nEast Lawsonborough, NC 26477-9383",
+            "status": "inactive",
+            "_links": {
+                "self": {
+                    "href": "https://gorest.co.in/public-api/users/5371"
+                },
+                "edit": {
+                    "href": "https://gorest.co.in/public-api/users/5371"
+                },
+                "avatar": {
+                    "href": "https://lorempixel.com/250/250/people/?57976"
+                }
+            }
+        },
+        {
+            "id": "5372",
+            "first_name": "Opal",
+            "last_name": "Rice",
+            "gender": "female",
+            "dob": "1995-08-31",
+            "email": "kbrown@example.net",
+            "phone": "1-942-605-3694 x87235",
+            "website": "http://www.hill.net/",
+            "address": "516 Gulgowski Spring Suite 917\nDomenickview, NV 07683",
+            "status": "active",
+            "_links": {
+                "self": {
+                    "href": "https://gorest.co.in/public-api/users/5372"
+                },
+                "edit": {
+                    "href": "https://gorest.co.in/public-api/users/5372"
+                },
+                "avatar": {
+                    "href": "https://lorempixel.com/250/250/people/?88453"
+                }
+            }
+        },
+        {
+            "id": "5373",
+            "first_name": "Valerie",
+            "last_name": "Barton",
+            "gender": "female",
+            "dob": "1999-09-04",
+            "email": "keara46@example.com",
+            "phone": "1-816-698-0414 x669",
+            "website": "http://lind.com/magnam-praesentium-voluptatem-et-illum",
+            "address": "5868 Alaina Island Apt. 360\nNew Renebury, AZ 13775-7151",
+            "status": "active",
+            "_links": {
+                "self": {
+                    "href": "https://gorest.co.in/public-api/users/5373"
+                },
+                "edit": {
+                    "href": "https://gorest.co.in/public-api/users/5373"
+                },
+                "avatar": {
+                    "href": "https://lorempixel.com/250/250/people/?87714"
+                }
+            }
+        },
+        {
+            "id": "5374",
+            "first_name": "Jade",
+            "last_name": "Greenholt",
+            "gender": "female",
+            "dob": "2014-05-16",
+            "email": "caden.grimes@example.net",
+            "phone": "(342) 598-6990",
+            "website": "http://www.smith.org/",
+            "address": "1166 Jacobson Valleys\nJordyville, AL 04566",
+            "status": "active",
+            "_links": {
+                "self": {
+                    "href": "https://gorest.co.in/public-api/users/5374"
+                },
+                "edit": {
+                    "href": "https://gorest.co.in/public-api/users/5374"
+                },
+                "avatar": {
+                    "href": "https://lorempixel.com/250/250/people/?13861"
+                }
+            }
+        },
+        {
+            "id": "5375",
+            "first_name": "Fanny",
+            "last_name": "Stehr",
+            "gender": "female",
+            "dob": "1994-11-19",
+            "email": "sidney.dickinson@example.com",
+            "phone": "(926) 504-0576",
+            "website": "http://stoltenberg.com/dolor-reiciendis-iusto-ea-velit-laborum-consectetur-iure",
+            "address": "8657 Nader Ford\nLockmanview, CT 82100-3423",
+            "status": "inactive",
+            "_links": {
+                "self": {
+                    "href": "https://gorest.co.in/public-api/users/5375"
+                },
+                "edit": {
+                    "href": "https://gorest.co.in/public-api/users/5375"
+                },
+                "avatar": {
+                    "href": "https://lorempixel.com/250/250/people/?51109"
+                }
+            }
+        },
+        {
+            "id": "5376",
+            "first_name": "Omer",
+            "last_name": "Weimann",
+            "gender": "male",
+            "dob": "1937-12-01",
+            "email": "lolita62@example.net",
+            "phone": "545-756-6437 x188",
+            "website": "http://www.prohaska.org/sit-est-illum-omnis-repellat",
+            "address": "92441 Eleanore Land\nEmmyview, LA 39490-9131",
+            "status": "active",
+            "_links": {
+                "self": {
+                    "href": "https://gorest.co.in/public-api/users/5376"
+                },
+                "edit": {
+                    "href": "https://gorest.co.in/public-api/users/5376"
+                },
+                "avatar": {
+                    "href": "https://lorempixel.com/250/250/people/?71161"
+                }
+            }
+        },
+        {
+            "id": "5377",
+            "first_name": "Chadrick",
+            "last_name": "Fritsch",
+            "gender": "male",
+            "dob": "2020-01-28",
+            "email": "junior14@example.com",
+            "phone": "732-509-3912",
+            "website": "http://www.ryan.com/sunt-in-et-veniam-quo",
+            "address": "5003 Hank Springs\nWest Geoffrey, MT 14076",
+            "status": "active",
+            "_links": {
+                "self": {
+                    "href": "https://gorest.co.in/public-api/users/5377"
+                },
+                "edit": {
+                    "href": "https://gorest.co.in/public-api/users/5377"
+                },
+                "avatar": {
+                    "href": "https://lorempixel.com/250/250/people/?34795"
+                }
+            }
+        },
+        {
+            "id": "5378",
+            "first_name": "Jeramie",
+            "last_name": "Swaniawski",
+            "gender": "male",
+            "dob": "1920-07-08",
+            "email": "emmerich.rachel@example.org",
+            "phone": "(603) 952-7672",
+            "website": "http://gerlach.com/molestiae-labore-reprehenderit-rem-et-soluta-et",
+            "address": "1249 Tia Ports\nJoanaland, ID 51334",
+            "status": "inactive",
+            "_links": {
+                "self": {
+                    "href": "https://gorest.co.in/public-api/users/5378"
+                },
+                "edit": {
+                    "href": "https://gorest.co.in/public-api/users/5378"
+                },
+                "avatar": {
+                    "href": "https://lorempixel.com/250/250/people/?51851"
+                }
+            }
+        },
+        {
+            "id": "5379",
+            "first_name": "Elliot",
+            "last_name": "Emmerich",
+            "gender": "male",
+            "dob": "1935-06-03",
+            "email": "icruickshank@example.net",
+            "phone": "(873) 641-7578 x977",
+            "website": "http://gleason.com/explicabo-ut-corrupti-incidunt-ex",
+            "address": "8345 Ignatius Haven Suite 101\nDaphneyborough, MN 51567",
+            "status": "inactive",
+            "_links": {
+                "self": {
+                    "href": "https://gorest.co.in/public-api/users/5379"
+                },
+                "edit": {
+                    "href": "https://gorest.co.in/public-api/users/5379"
+                },
+                "avatar": {
+                    "href": "https://lorempixel.com/250/250/people/?93679"
+                }
+            }
+        },
+        {
+            "id": "5380",
+            "first_name": "Lupe",
+            "last_name": "Torphy",
+            "gender": "female",
+            "dob": "2018-12-01",
+            "email": "mswaniawski@example.com",
+            "phone": "+13579368495",
+            "website": "http://www.lang.com/perspiciatis-fugiat-nisi-exercitationem-sit-ut-laboriosam-odio",
+            "address": "59724 Aditya Landing\nPetefort, TX 07194",
+            "status": "active",
+            "_links": {
+                "self": {
+                    "href": "https://gorest.co.in/public-api/users/5380"
+                },
+                "edit": {
+                    "href": "https://gorest.co.in/public-api/users/5380"
+                },
+                "avatar": {
+                    "href": "https://lorempixel.com/250/250/people/?97909"
+                }
+            }
+        },
+        {
+            "id": "5381",
+            "first_name": "Brock",
+            "last_name": "Kertzmann",
+            "gender": "male",
+            "dob": "2003-01-05",
+            "email": "destinee24@example.net",
+            "phone": "685-920-5664 x87540",
+            "website": "http://www.armstrong.biz/nihil-possimus-quas-eius-et-fugit-inventore.html",
+            "address": "69018 Schmidt Point Suite 997\nNew Thurmanborough, AL 24708",
+            "status": "active",
+            "_links": {
+                "self": {
+                    "href": "https://gorest.co.in/public-api/users/5381"
+                },
+                "edit": {
+                    "href": "https://gorest.co.in/public-api/users/5381"
+                },
+                "avatar": {
+                    "href": "https://lorempixel.com/250/250/people/?55478"
+                }
+            }
+        },
+        {
+            "id": "5382",
+            "first_name": "Georgianna",
+            "last_name": "Stroman",
+            "gender": "female",
+            "dob": "1930-10-23",
+            "email": "rutherford.ozella@example.org",
+            "phone": "(325) 551-4025 x771",
+            "website": "http://www.ohara.com/quia-hic-consequatur-voluptas-neque-odit.html",
+            "address": "55247 Mariana Port Suite 689\nKellyville, CA 79807-8345",
+            "status": "inactive",
+            "_links": {
+                "self": {
+                    "href": "https://gorest.co.in/public-api/users/5382"
+                },
+                "edit": {
+                    "href": "https://gorest.co.in/public-api/users/5382"
+                },
+                "avatar": {
+                    "href": "https://lorempixel.com/250/250/people/?87254"
+                }
+            }
+        }
+    ]
+}
