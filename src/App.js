@@ -1,10 +1,10 @@
 import React from 'react';
-import Body from './Body'
+import Rotas from './rotas'
 
 function App() {
   return (
-    <div>
-      <Body />
+    <div className="container">
+      <Rotas />
     </div>
   );
 }
